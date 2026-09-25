@@ -38,11 +38,12 @@ git branch -M main
    | `MONGO_URI` | `mongodb+srv://placement_admin:Yash1234@cluster0.cqnmloc.mongodb.net/placement_management?appName=Cluster0` |
    | `JWT_SECRET` | `placement_secret_key_jwt_2026_secure` |
    | `FRONTEND_URL` | *(Leave blank initially, or add your Netlify URL after deploying frontend)* |
-### Live Backend Deployment Details
-- **Live Vercel Production URL**: `https://backend-chi-taupe-31.vercel.app`
-- **Live API Health Endpoint**: `https://backend-chi-taupe-31.vercel.app/api/health`
-- **Live API Base URL for Netlify**: `https://backend-chi-taupe-31.vercel.app/api`
-- **Status**: Verified ✅ (Connected to MongoDB Atlas, JWT authentication active)
+### Live Deployment Status (Both Live on Vercel! 🚀)
+- **Live Frontend Application**: `https://placement-frontend-omega.vercel.app`
+- **Live Frontend Login**: `https://placement-frontend-omega.vercel.app/login`
+- **Live Backend API**: `https://backend-chi-taupe-31.vercel.app`
+- **Live Backend Health**: `https://backend-chi-taupe-31.vercel.app/api/health`
+- **Status**: 100% Operational & Verified ✅ (Connected to MongoDB Atlas, JWT authentication active, SPA routing configured)
 
 ---
 
