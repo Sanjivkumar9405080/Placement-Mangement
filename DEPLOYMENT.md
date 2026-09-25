@@ -39,8 +39,8 @@ git branch -M main
    | `JWT_SECRET` | `placement_secret_key_jwt_2026_secure` |
    | `FRONTEND_URL` | *(Leave blank initially, or add your Netlify URL after deploying frontend)* |
 ### Live Deployment Status (Both Live on Vercel! 🚀)
-- **Live Frontend Application**: `https://placement-frontend-omega.vercel.app`
-- **Live Frontend Login**: `https://placement-frontend-omega.vercel.app/login`
+- **Live Frontend Application**: `https://placement-mangement-system.vercel.app` (or `https://placement-frontend-omega.vercel.app`)
+- **Live Frontend Login**: `https://placement-mangement-system.vercel.app/login`
 - **Live Backend API**: `https://backend-chi-taupe-31.vercel.app`
 - **Live Backend Health**: `https://backend-chi-taupe-31.vercel.app/api/health`
 - **Status**: 100% Operational & Verified ✅ (Connected to MongoDB Atlas, JWT authentication active, SPA routing configured)
